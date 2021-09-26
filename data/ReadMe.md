@@ -1,5 +1,6 @@
 
 Polarimetric data taken by MSI/Pirka at Nayoro Observatory.
+
 The preprocessed data is available at XXX.
 
 | Columns Name                            | Explanation                                                  |
