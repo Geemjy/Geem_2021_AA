@@ -1,6 +1,6 @@
 # Geem_202X_AA
 
-Here we provide 1) the polarimetric data and 2) the code to fit the polarization phase curve.
+Here we provide 1) the polarimetric data and 2) the code to fit the polarization phase curve in Geem et al. 202X.
 
 The contents are
 
