@@ -13,4 +13,4 @@ Polarimetric data taken by MSI/Pirka at Nayoro Observatory.
 
 
 The preprocessed data is available at XXX.
-If you have any questions, please contact Jooyeon Geem (geem@astro.snu.ac.kr).
+If you have any questions, please contact Jooyeon Geem (ksky0422@gmail.com or geem@astro.snu.ac.kr).
