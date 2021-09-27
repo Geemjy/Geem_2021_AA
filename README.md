@@ -11,4 +11,4 @@ The contents are
 
 
 
-If you have any questions or comments, please contact to Jooyeon Geem (geem@astro.snu.ac.kr)!!!!
+If you have any questions or comments, please contact to Jooyeon Geem (ksky0422@gmail.com or geem@astro.snu.ac.kr)!!!!
